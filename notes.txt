@@ -1,0 +1,5 @@
+--------------------------------
+by Danielly C Kammers
+--------------------------------
+
+library Celebrate - integra o JOI (criado pela Hapi para validar rotas) com o express (gerenciamento de rotas que utilizo no React)
